@@ -1,1 +1,36 @@
+p {
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  opacity: 1;
+}
+h1.homepage { 
+  color: purple;
+  font-family: Rockwell;
+  align: center;
+  opacity: 1;
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+a:active {
+  text-decoration: none;
+}
+div.background {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  text-align: center;
+  align-content: center;
+}
 
