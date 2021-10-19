@@ -1,25 +1,28 @@
 p {
   font-family: Source Sans Pro;
-  font-size: 18px;
+  font-size: 16px;
   opacity: 1;
+  color: white;
 }
 h1.homepage { 
-  color: purple;
+  color: royalblue;
   font-family: Rockwell;
   align: center;
   opacity: 1;
+  text-shadow: 1px 1px red;
 }
 a:link {
   text-decoration: none;
-  color: black;
+  color: white;
+  text-shadow: 1px 1px red;
 }
 a:visited {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 a:hover {
   text-decoration: none;
-  color: purple;
+  color: royalblue;
 }
 a:active {
   text-decoration: none;
@@ -33,4 +36,12 @@ div.background {
   text-align: center;
   align-content: center;
 }
+body.hero {
+  background-image: url("https://lh3.googleusercontent.com/j2mwBIyEUkcupBEOO9tX3VHj10UIy0j7nZDkgKij4XJL8qHs804JQkWHUHKzcofqp0oUCuJnxt8lQlRdlTEykbR_kZa5t8Rt1fnJ_2lObIwWBEf5FZB1x3TN4T4ZfjFuXVpAqgz3lA=w2400");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center bottom;
+  background-color: black;
+}
+
 
