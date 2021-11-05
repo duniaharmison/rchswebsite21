@@ -1,1 +1,30 @@
+h1 {
+  color: pink;
+font-family: arial;
+  font-size: lrem;
+}
+  
+a {
+  color: grey;
+  Text-decoration: npne;
+  font-family: arial;
+  font-size: .Bren;
+  
+}
 
+div.background {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  text-align: center;
+  align-content: center;
+}
+
+p {
+  font-family: Source Sans Pro;
+  font-size: 30px;
+  opacity: 1;
+  color: grey;
+}
